@@ -32,7 +32,7 @@ else
 // usamos new para o novo objeto que queremos criar 
 ContaCorrente contaDaIsa = new ContaCorrente();
 //contaDaIsa.titular = "Isabella";
-contaDaIsa.numero_agencia = 17;
+// contaDaIsa.numero_agencia = 17;
 contaDaIsa.conta = "1010-5";
 // contaDaIsa.saldo = 350;
 
@@ -59,10 +59,22 @@ contaTeste.SetSaldo(-10);
 Console.WriteLine("Aqui temos o metodo obter saldo: ");
 Console.WriteLine(contaTeste.GetSaldo());
 
+conta.SetSaldo(200); 
+Console.WriteLine(conta.Numero_agencia);
 
+// podemos definir uma variavel que receberá um valor 
+// conta.Conta = "010923-9";
 
+// agora a conta corrente exige parametros
+ContaCorrente conta4 = new ContaCorrente(20, "2010-X");
+conta4.SetSaldo(500);
+// conta4.Numero_agencia = 18;
+conta4.Titular = new Cliente(); 
+Console.WriteLine("Resultado"); 
+Console.WriteLine(conta4.GetSaldo()); 
+Console.WriteLine(conta4.Numero_agencia); 
 
-
-
+// métodos construtores: constroem objeto 
+// para referenciar uma classe ContaCOrrente.NomeDaClasse
 
 

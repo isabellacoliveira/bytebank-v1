@@ -8,10 +8,19 @@ namespace ByteBank
 {
     public class Cliente
     {
-        public string nome;
-        public string Cpf;
-        public string profissao;
+        // vamos ter propriedades public 
+        // prop tab
+        public string Nome { get; set; }
+        public string Cpf { get; set; }
+        public string Profissao { get; set; }
 
+        // code snipped
+
+        public Cliente()
+        {
+            // metodo construtor
+            
+        } 
 
     }
 }

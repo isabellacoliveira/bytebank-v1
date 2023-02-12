@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ModalGR\\Desktop\\STACKS\\STACK .NET\\C# orientação a objetos\\ByteBank\\ByteBank\\ByteBank.csproj": {}
+    "C:\\Users\\ModalGR\\Desktop\\STACKS\\STACK .NET\\C# orientação a objetos\\ByteBank\\Bytebank\\ByteBank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ModalGR\\Desktop\\STACKS\\STACK .NET\\C# orientação a objetos\\ByteBank\\ByteBank\\ByteBank.csproj": {
+    "C:\\Users\\ModalGR\\Desktop\\STACKS\\STACK .NET\\C# orientação a objetos\\ByteBank\\Bytebank\\ByteBank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ModalGR\\Desktop\\STACKS\\STACK .NET\\C# orientação a objetos\\ByteBank\\ByteBank\\ByteBank.csproj",
+        "projectUniqueName": "C:\\Users\\ModalGR\\Desktop\\STACKS\\STACK .NET\\C# orientação a objetos\\ByteBank\\Bytebank\\ByteBank.csproj",
         "projectName": "ByteBank",
-        "projectPath": "C:\\Users\\ModalGR\\Desktop\\STACKS\\STACK .NET\\C# orientação a objetos\\ByteBank\\ByteBank\\ByteBank.csproj",
+        "projectPath": "C:\\Users\\ModalGR\\Desktop\\STACKS\\STACK .NET\\C# orientação a objetos\\ByteBank\\Bytebank\\ByteBank.csproj",
         "packagesPath": "C:\\Users\\ModalGR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ModalGR\\Desktop\\STACKS\\STACK .NET\\C# orientação a objetos\\ByteBank\\ByteBank\\obj\\",
+        "outputPath": "C:\\Users\\ModalGR\\Desktop\\STACKS\\STACK .NET\\C# orientação a objetos\\ByteBank\\Bytebank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ModalGR\\AppData\\Roaming\\NuGet\\NuGet.Config",
