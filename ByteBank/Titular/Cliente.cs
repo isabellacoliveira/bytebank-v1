@@ -14,12 +14,16 @@ namespace ByteBank
         public string Cpf { get; set; }
         public string Profissao { get; set; }
 
+        // identificar total de clientes cadastrados
+         public static int TotalClientesCadastrados { get; set; }
+
+
         // code snipped
 
         public Cliente()
         {
             // metodo construtor
-            
+
         } 
 
     }
